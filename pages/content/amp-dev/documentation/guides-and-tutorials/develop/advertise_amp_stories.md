@@ -9,7 +9,7 @@ author: CrystalOnScript
 
 AMP Stories are a full-screen tappable experience that immerses readers in the content. Advertising with AMP Story ads allows for seamless and disruption-free integration into the user’s journey, keeping them engaged and delighted by the platform.
 
-##Ad Placement
+###Ad Placement
 Unlike AMP web pages, where the amount and location of ads is designated by the placement of multiple [`amp-ad`](../../../documentation/components/reference/amp-ad.md) components, AMP Stories rely on a single  [`amp-story-auto-ads`](../../../documentation/components/reference/amp-story-auto-ads.md) component to dictate ad quantity and placement.
 
 The [`amp-story-auto-ads`](../../../documentation/components/reference/amp-story-auto-ads.md) extension is a wrapper around the [`amp-ad`](../../../documentation/components/reference/amp-ad.md) component that dynamically inserts one or multiple ads while the user consumes the story content. To ensure the best user experience:
